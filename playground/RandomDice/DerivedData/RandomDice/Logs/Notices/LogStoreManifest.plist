@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0A3D8D55-96D9-40AE-976C-0807C8B72F80</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0A3D8D55-96D9-40AE-976C-0807C8B72F80.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvdG9ycmVzY2hpZW5cL0Rlc2t0b3BcL0dpdGh1YlwvcGxheWdyb3VuZFwvUmFuZG9tRGljZVwvUmFuZG9tRGljZS5wbGF5Z3JvdW5kIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJQTEFZR1JPVU5ELVRBUkdFVDpcL1VzZXJzXC90b3JyZXNjaGllblwvRGVza3RvcFwvR2l0aHViXC9wbGF5Z3JvdW5kXC9SYW5kb21EaWNlXC9SYW5kb21EaWNlLnBsYXlncm91bmQifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>705210698.17650497</real>
+			<key>timeStoppedRecording</key>
+			<real>705210698.27016699</real>
+			<key>title</key>
+			<string>Build RandomDice (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>0A3D8D55-96D9-40AE-976C-0807C8B72F80</string>
+		</dict>
+		<key>5588F559-3AD5-4CCE-8DF9-15A170E418AB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5588F559-3AD5-4CCE-8DF9-15A170E418AB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>705210698.17650497</real>
+			<key>timeStoppedRecording</key>
+			<real>705210698.27016699</real>
+			<key>title</key>
+			<string>Build RandomDice (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>5588F559-3AD5-4CCE-8DF9-15A170E418AB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
