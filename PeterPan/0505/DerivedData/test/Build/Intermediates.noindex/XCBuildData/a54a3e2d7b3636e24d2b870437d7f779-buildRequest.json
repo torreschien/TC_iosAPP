@@ -1,0 +1,89 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "PLAYGROUND-PRODUCT:test_Sources-PLAYGROUND-TARGET:/Users/torreschien/Desktop/torreschien/Handout/pan/test.playground",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "macosx",
+          "sdk" : "macosx13.1",
+          "sdkVariant" : "macos",
+          "supportedArchitectures" : [
+            "x86_64h",
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Build/Products",
+          "derivedDataPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "DSTROOT" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Build/Intermediates.noindex/Playgrounds/test/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Build/Intermediates.noindex/Playgrounds/test/Intermediates.noindex",
+              "SYMROOT" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Build/Intermediates.noindex/Playgrounds/test/Products"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/test.playground",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Build/Products",
+      "derivedDataPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/torreschien/Desktop/torreschien/Handout/pan/DerivedData/test/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

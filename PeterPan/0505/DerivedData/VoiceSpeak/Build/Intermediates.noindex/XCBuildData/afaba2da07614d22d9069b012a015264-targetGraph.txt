@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+VoiceSpeak_Sources in VoiceSpeak_Sources, no dependencies

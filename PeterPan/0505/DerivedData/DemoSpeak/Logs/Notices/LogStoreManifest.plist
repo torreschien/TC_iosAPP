@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7C363F46-0353-470A-A138-BE14AD7B3B53</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C363F46-0353-470A-A138-BE14AD7B3B53.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvdG9ycmVzY2hpZW5cL0Rlc2t0b3BcL3RvcnJlc2NoaWVuXC9IYW5kb3V0XC9wYW5cL0RlbW9TcGVhay5wbGF5Z3JvdW5kIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJQTEFZR1JPVU5ELVRBUkdFVDpcL1VzZXJzXC90b3JyZXNjaGllblwvRGVza3RvcFwvdG9ycmVzY2hpZW5cL0hhbmRvdXRcL3BhblwvRGVtb1NwZWFrLnBsYXlncm91bmQifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704960986.70098603</real>
+			<key>timeStoppedRecording</key>
+			<real>704960986.84157896</real>
+			<key>title</key>
+			<string>Build DemoSpeak (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>7C363F46-0353-470A-A138-BE14AD7B3B53</string>
+		</dict>
+		<key>99054357-EFE3-412D-BE98-D80C2BEC3A32</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99054357-EFE3-412D-BE98-D80C2BEC3A32.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704960986.70098603</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build DemoSpeak (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>99054357-EFE3-412D-BE98-D80C2BEC3A32</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
