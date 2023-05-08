@@ -25,17 +25,15 @@ class BirthdayViewController: UIViewController {
         return controller
         // 下列寫法只會回傳一個空畫面
 //        return ResultViewController()
-        
     }
     
-    /*
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
+    /// prepare 方式
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+        let controller = segue.destination as? ResultViewController
+        controller?.birthday = datePicker.date
     }
-    */
 
 }

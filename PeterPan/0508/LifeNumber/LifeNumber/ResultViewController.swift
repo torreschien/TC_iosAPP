@@ -8,13 +8,19 @@
 import UIKit
 import WebKit
 
+struct BmiInfo {
+    let weight: Double
+    let height: Double
+}
+
 class ResultViewController: UIViewController {
 
     var birthday: Date!
     @IBOutlet weak var webView: WKWebView!
-    
     let lifeNumberNames = ["", "開創", "協調", "創意", "務實",
     "自由", "關懷", "探究", "權威", "智慧"]
+    
+    var bmiInfo: BmiInfo!
     
     override func viewDidLoad() {
         super.viewDidLoad()
