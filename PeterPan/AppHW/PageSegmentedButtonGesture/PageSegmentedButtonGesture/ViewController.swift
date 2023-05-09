@@ -33,6 +33,22 @@ class ViewController: UIViewController, UIScrollViewDelegate {
         let page = albumScrollView.contentOffset.x / albumScrollView.bounds.width
         albumPageControl.currentPage = Int(page)
         albumSegmentedControl.selectedSegmentIndex = Int(page)
+        switch page {
+        case 0:
+            view01.isHidden = false
+            view02.isHidden = true
+            view03.isHidden = true
+        case 1:
+            view01.isHidden = true
+            view02.isHidden = false
+            view03.isHidden = true
+        case 2:
+            view01.isHidden = true
+            view02.isHidden = true
+            view03.isHidden = false
+        default:
+            break
+        }
     }
 
     // MARK: - 小圓點的 Action
@@ -42,6 +58,22 @@ class ViewController: UIViewController, UIScrollViewDelegate {
             y: 0)
         albumScrollView.setContentOffset(point, animated: true)
         albumSegmentedControl.selectedSegmentIndex = sender.currentPage
+        switch sender.currentPage {
+        case 0:
+            view01.isHidden = false
+            view02.isHidden = true
+            view03.isHidden = true
+        case 1:
+            view01.isHidden = true
+            view02.isHidden = false
+            view03.isHidden = true
+        case 2:
+            view01.isHidden = true
+            view02.isHidden = true
+            view03.isHidden = false
+        default:
+            break
+        }
         
     }
     // MARK: - Segmented 的 Action
