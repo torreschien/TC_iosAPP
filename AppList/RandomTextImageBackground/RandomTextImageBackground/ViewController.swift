@@ -11,19 +11,15 @@ class ViewController: UIViewController {
     
     // MARK: - IBOutlets
     // 透明度相關的 IBOutlet
-    @IBOutlet weak var alphaLabel: UILabel!
     @IBOutlet weak var alphaValueLabel: UILabel!
     @IBOutlet weak var alphaSlider: UISlider!
     // 紅色相關的 IBOutlet
-    @IBOutlet weak var redLabel: UILabel!
     @IBOutlet weak var redValueLabel: UILabel!
     @IBOutlet weak var redValueSlider: UISlider!
     // 綠色相關的 IBOutlet
-    @IBOutlet weak var greenLanel: UILabel!
     @IBOutlet weak var greenValueLabel: UILabel!
     @IBOutlet weak var greenValueSlider: UISlider!
     // 藍色相關的 IBOutlet
-    @IBOutlet weak var blueLabel: UILabel!
     @IBOutlet weak var blueValueLabel: UILabel!
     @IBOutlet weak var blueValueSlider: UISlider!
     // 顏色相關的 IBOutlet

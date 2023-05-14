@@ -104,7 +104,8 @@ class SecondViewController: UIViewController {
             view.window!.layer.add(transition, forKey: kCATransition)
             // animated 有動畫, completion 過程不需要其他操作
             dismiss(animated: true, completion: nil)
-            print("向右")
+            // 觀察用
+            // print("向右")
         }
     }
     

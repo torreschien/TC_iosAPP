@@ -185,17 +185,13 @@
                     </view>
                     <navigationItem key="navigationItem" id="ura-Cm-E5E"/>
                     <connections>
-                        <outlet property="alphaLabel" destination="Zu2-9g-JOP" id="beo-2U-g1N"/>
                         <outlet property="alphaSlider" destination="Fmy-bJ-WYr" id="AAT-6O-st9"/>
                         <outlet property="alphaValueLabel" destination="0W2-dc-Phf" id="0g2-uc-pBc"/>
-                        <outlet property="blueLabel" destination="g0t-I7-hBg" id="l92-Zv-Epq"/>
                         <outlet property="blueValueLabel" destination="JMk-0a-HYG" id="0m4-Lf-8gI"/>
                         <outlet property="blueValueSlider" destination="4qo-ZN-LJO" id="pqI-Nk-wkd"/>
                         <outlet property="colorView" destination="BFg-G0-PKt" id="Ljs-E6-UfD"/>
-                        <outlet property="greenLanel" destination="v4e-vx-zgI" id="MjI-Jz-49j"/>
                         <outlet property="greenValueLabel" destination="geo-pL-mbC" id="8le-mr-d6y"/>
                         <outlet property="greenValueSlider" destination="FME-Tx-S81" id="5Ab-vP-yca"/>
-                        <outlet property="redLabel" destination="TO8-Yt-0we" id="Zvr-vc-gxI"/>
                         <outlet property="redValueLabel" destination="Cuk-jf-11p" id="cFD-f1-6lq"/>
                         <outlet property="redValueSlider" destination="AcZ-dF-uqh" id="gTw-0V-GIx"/>
                         <outlet property="sendColorButton" destination="Suq-g3-WBV" id="Phm-yW-XjW"/>
