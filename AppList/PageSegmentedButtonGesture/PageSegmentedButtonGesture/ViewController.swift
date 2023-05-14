@@ -87,6 +87,7 @@ class ViewController: UIViewController, UIScrollViewDelegate {
             albumSegmentedControl.selectedSegmentIndex = currentPage - 1
             // 顯示上一頁的 view
             showView(at: currentPage - 1)
+            buttonHiddenOrNot(at: currentPage - 1)
         }
     }
     // Next Button 的動作
@@ -105,6 +106,7 @@ class ViewController: UIViewController, UIScrollViewDelegate {
             albumSegmentedControl.selectedSegmentIndex = currentPage + 1
             // 顯示下一頁的 view
             showView(at: currentPage + 1)
+            buttonHiddenOrNot(at: currentPage + 1)
         }
     }
     // MARK: - 顯示或隱藏
