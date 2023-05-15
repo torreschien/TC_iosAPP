@@ -58,7 +58,7 @@ class SecondViewController: UIViewController {
             // 角度
             label.transform = CGAffineTransform(rotationAngle: CGFloat.random(in: 0...CGFloat.pi))
             // 顏色
-            label.textColor = UIColor(red: 0, green: 0, blue: 0, alpha: 0.1)
+            label.textColor = UIColor(red: 0, green: 0, blue: 0, alpha: CGFloat.random(in: 0.1...0.3))
             colorView.addSubview(label)
         }
     }
