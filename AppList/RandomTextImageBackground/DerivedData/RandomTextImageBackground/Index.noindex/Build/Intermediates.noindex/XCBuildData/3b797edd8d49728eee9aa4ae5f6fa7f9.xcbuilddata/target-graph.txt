@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-RandomTextImageBackground in RandomTextImageBackground, no dependencies
-RandomTextImageBackground in RandomTextImageBackground, no dependencies
